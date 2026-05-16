@@ -232,7 +232,3 @@
 - [VHDL Quick Reference](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 
 ---
-
-*Troubleshooting Guide — BCD Code Converter Project*
-*Authors: Muhammad Mamoon, Ali Ahmar Awan, Asad Ali*
-*Course: DLD Lab & Computer Architecture — UCP Spring 2025*
