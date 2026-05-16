@@ -6,18 +6,6 @@ A complete digital logic design project implementing two code conversion systems
 
 ---
 
-## 📌 Project Overview
-
-| Detail | Info |
-|--------|------|
-| University | University of Central Punjab (UCP) |
-| Course | Digital Logic Design Lab (REE222) |
-| Instructor | Dr. Nabeel Khalid |
-| Additional Task | Engr. Fazeel Abbas (Computer Architecture) |
-| Session | Spring 2025 |
-| Authors | Muhammad Mamoon (L1F23BSRI0014), Ali Ahmar Awan (L1F23BSRI0013), Asad Ali (L1F23BSRI0024) |
-
----
 
 ## 🔀 Two Implementations
 
@@ -104,7 +92,7 @@ Excess-3 = BCD + 0011
 ## 📁 Repository Structure
 
 ```
-bcd-code-converter/
+code-conversion-system
 │
 ├── hardware/                          ← IC-based breadboard implementation
 │   ├── photos/
@@ -185,14 +173,5 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👤 Authors
 
-| Name | Reg. No |
-|------|---------|
-| Muhammad Mamoon | L1F23BSRI0014 |
-| Ali Ahmar Awan | L1F23BSRI0013 |
-| Asad Ali | L1F23BSRI0024 |
-
-## 🙏 Acknowledgements
-
-- DLD Lab Instructor: **Dr. Nabeel Khalid**
-- Computer Architecture Instructor: **Engr. Fazeel Abbas**
-- University of Central Punjab — Spring 2025
+Muhammad Mamoon
+Robotics Engineering Student
