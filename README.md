@@ -17,7 +17,6 @@ This project covers the same combinational logic design realized in two distinct
 | Language | Physical Logic Gates | VHDL |
 | Technique | IC wiring | Library building (package + components) |
 | Verification | LED output observation | Waveform simulation |
-| Scope | DLD Lab Project | Computer Architecture Lab Task |
 
 ---
 
@@ -115,11 +114,10 @@ code-conversion-system
 │   │   ├── bcdtoex3.vhd
 │   │   └── bcdtogray.vhd
 │   └── simulation/
-│       └── *(Add Quartus waveform screenshots here)*
-│
-├── docs/
-│   └── project_report.pdf            ← Full DLD lab project report
-│
+│       └── bcdtoex3.vwf
+│       └── bcdtogray.vwf
+│       └── bcdtoex3.png
+│       └── bcdtogray.png
 ├── README.md
 ├── TROUBLESHOOTING.md
 └── LICENSE
